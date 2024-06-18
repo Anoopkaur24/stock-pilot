@@ -1,0 +1,32 @@
+/* src/App.css */
+.App {
+  text-align: center;
+}
+
+header {
+  background-color: #282c34;
+  padding: 20px;
+  color: white;
+}
+
+input {
+  margin-right: 10px;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  cursor: pointer;
+  padding: 5px 0;
+}
+
+li:hover {
+  background-color: #f0f0f0;
+}
+
+div {
+  margin: 20px;
+}
